@@ -1,3 +1,0 @@
-with open("101-password", "w") as file:
-    file.write("Congratulations")
-
