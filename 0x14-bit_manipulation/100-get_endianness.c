@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * Author:Aishat Peregrino-Brimah
- * Endianness Protype
+ * Endianness Protype AishatPeregrinoBrimah
  * If the least significant byte is stored at the lowest address,
  * it means the system is little endian.
  */
