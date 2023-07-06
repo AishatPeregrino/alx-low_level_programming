@@ -1,6 +1,7 @@
 #include "main.h"
+
 /**
- * Author:Aishat Peregrino-Brimah
+ * Author_Aishat Peregrino_Brimah
  * print_binary - print binary
  * @n: integer to mess with
  */
