@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_binary - print binary
+ * print_binary - print binary AishatPeregrino
  * @n: integer to mess with
  */
 void print_binary(unsigned long int n)
