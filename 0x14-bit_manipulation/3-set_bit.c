@@ -1,7 +1,7 @@
 #include "main.h"
 #include "2-get_bit.c"
 /**
- * set_bit - sets a bit 
+ * set_bit - set a bit 
  * @n: integer to grab 
  *
  */
