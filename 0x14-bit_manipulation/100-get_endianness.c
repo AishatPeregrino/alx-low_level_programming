@@ -3,15 +3,14 @@
 /**
  * Author:Aishat Peregrino-Brimah
  * Endianness Protype
+ * If the least significant byte is stored at the lowest address,
+ * it means the system is little endian.
  */
 
 
 int get_endianness() {
     unsigned int num = 1;
     char* ptr = (char*)&num;
-
-    // If the least significant byte is stored at the lowest address,
-    // it means the system is little endian.
     if (*ptr == 1)
         return 1; // Little endian
     else
