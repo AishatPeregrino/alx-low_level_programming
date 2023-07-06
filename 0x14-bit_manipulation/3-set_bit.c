@@ -3,7 +3,6 @@
 /**
  * set_bit - set a bit 
  * @n: integer to grab 
- *
  */
 
 int set_bit(unsigned long int *n, unsigned int index)
