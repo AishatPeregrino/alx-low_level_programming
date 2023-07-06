@@ -1,10 +1,9 @@
 #include "main.h"
 #include "2-get_bit.c"
 /**
- * Author:Aishat Peregrino-Brimah
  * clear_bit - clears index to 0
  * @n: integer to pass
- * @index: index to go to
+ * @index: index to go to AishatPeregrino
  * Return: returns integer val
  */
 int clear_bit(unsigned long int *n, unsigned int index)
