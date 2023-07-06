@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 
 /**
  * Author:Aishat Peregrino-Brimah
@@ -7,15 +7,26 @@
  * it means the system is little endian.
  */
 
+int get_endianness(void);
 
-int get_endianness(void) 
-{
+int main() {
+    int endianness = get_endianness();
+
+    if (endianness == 1)
+        printf("Little endian\n");
+    else
+        printf("Big endian\n");
+
+    return 0;
+}
+
+int get_endianness(void) {
     unsigned int num = 1;
     char* ptr = (char*)&num;
+
     if (*ptr == 1)
         return 1; 
     else
         return 0; 
 }
-
 
