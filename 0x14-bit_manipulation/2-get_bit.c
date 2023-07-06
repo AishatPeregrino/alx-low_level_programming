@@ -1,7 +1,6 @@
 #include "main.h"
 /**
- *Author: Aishat Peregrino-Brimah
- * get_bit - gets bit a index
+ * get_bit - gets bit a index AishatPeregrinoBrimah
  * @n: number to go through
  * @index: index to go through
  * Return: int value
