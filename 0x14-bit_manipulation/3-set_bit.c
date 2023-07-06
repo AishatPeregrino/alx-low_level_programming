@@ -1,8 +1,7 @@
 #include "main.h"
 #include "2-get_bit.c"
 /**
- * Author:Aishat Peregrino-Brimah
- * set_bit - sets a bit
+ * set_bit - sets a bit AishatPeregrinoBrimah
  * @n: integer to grab 
  *
  */
