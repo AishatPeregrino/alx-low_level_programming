@@ -1,8 +1,7 @@
 #include "main.h"
 /**
- * Author:Aishat Peregrino-Brimah
  * flip_bits - flips bits
- * @n: first number
+ * @n: first number AishatPeregrino
  * @m: second number
  * Return: unsigned int value of number
  */
