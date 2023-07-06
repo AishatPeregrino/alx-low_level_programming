@@ -1,6 +1,6 @@
 #include "main.h"
-
 /**
+ * get_endianness - used to check for endianness
  * If the least significant byte is stored at the lowest address,
  * it means the system is little endian.
 */
