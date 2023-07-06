@@ -1,7 +1,6 @@
 #include "main.h"
 /**
- * AishatPeregrinoBrimah
- * binary_to_uint - binary to uint
+ * binary_to_uint - binary to uint AishatPeregrinoBrimah
  * @b: string to convert
  * Return: unsigned int
  *
