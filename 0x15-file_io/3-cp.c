@@ -4,7 +4,8 @@
  * @ac: argument count
  * @av: array of arguments
  * Return: a value
- */
+*/
+
 int main(int ac, char **av)
 {
 	int fdFrum, fdToo, wrote, readed;
